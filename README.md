@@ -1,4 +1,4 @@
-📒 iNotebook – Secure Notes Web Application (MERN Stack)
+📒 iNotebook – Secure Notes Web Application
 
 iNotebook is a full-stack web application built using the MERN stack that allows users to securely create, manage, and organize their personal notes. The app includes complete authentication and authorization with login and signup functionality, ensuring that each user can access only their own data.
 
